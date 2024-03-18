@@ -2,7 +2,7 @@ const buyStocksApiUrl = 'https://customer-analytics-34146.my.salesforce-sites.co
 const companyToInvestIn = 'Bajaj Finserv LTD'; 
 const currentStockPrice = '1,578.55'; 
 const investmentAccountNumber = 'ABC123'; 
-const githubRepoLink = 'https://github.com/priyansh1604/baj.git'; 
+const githubRepoLink = 'https://github.com/priyansh1604/baj'; 
 
 const buyStocks = async () => {
   try {
